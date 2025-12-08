@@ -40,30 +40,7 @@ I build responsive web apps and Android apps with clean architecture and attenti
 
 ---
 
-## Featured Projects
 
-### 📝 [Blog App](https://github.com/sharmavikaskumar/blogwedsite)  
-**CodeIgniter · PHP · MySQL · Bootstrap**  
-A responsive blogging platform with an easy CMS-style admin, clean UI and mobile-first design. Great for content-driven sites.
-
-### 🎮 [Tic-Tac-Toe (Android)](https://github.com/sharmavikaskumar/TIC_TAC_TEO)  
-**Kotlin · Android Studio**  
-Interactive game with smooth controls and modern app structure. Built following Android best practices.
-
-### 📊 [Attendance Management System](https://github.com/sharmavikaskumar)  
-**PHP · MySQL · HTML/CSS/JS**  
-Teacher-first attendance system with reporting and analytics. Focused on simplicity and reliability.
-
-> 🔗 More projects: https://github.com/sharmavikaskumar
-
----
-
-## Highlights & Wins
-- ✅ Strong academic record — **CGPA 8.93** (BSc IT, Mumbai University)  
-- ✅ Professional experience at **BARC** (full-stack responsibilities)  
-- ✅ Multiple production-ready web & Android apps
-
----
 
 ## How I work
 - Clean, modular code with readable architecture  
