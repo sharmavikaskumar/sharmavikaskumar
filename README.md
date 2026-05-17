@@ -12,8 +12,7 @@
 </div>
 
 ---
-
-## 🙏 Namaste, I'm Vikas!
+ Namaste, I'm Vikas!
 
 > 🚀 Junior Full Stack Developer at **BARC**, Mumbai  
 > 💡 Passionate about building scalable, modern web applications  
